@@ -1,0 +1,1 @@
+export { default as VAnnoyingButton } from "./VAnnoyingButton.vue";
